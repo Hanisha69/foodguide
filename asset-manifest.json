@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodguide/static/css/main.c68bc5ce.css",
+    "main.js": "/foodguide/static/js/main.56028ce8.js",
+    "static/js/787.97b37d2b.chunk.js": "/foodguide/static/js/787.97b37d2b.chunk.js",
+    "index.html": "/foodguide/index.html",
+    "main.c68bc5ce.css.map": "/foodguide/static/css/main.c68bc5ce.css.map",
+    "main.56028ce8.js.map": "/foodguide/static/js/main.56028ce8.js.map",
+    "787.97b37d2b.chunk.js.map": "/foodguide/static/js/787.97b37d2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c68bc5ce.css",
+    "static/js/main.56028ce8.js"
+  ]
+}
